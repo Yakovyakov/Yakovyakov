@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **Full Stack Developer | Python Specialist | TDD Practitioner | AI Enthusiast**
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile) -->
-[![Email](https://img.shields.io/badge/-yvak0423@gmail.com-red?style=flat&logo=gmail)](mailto:yvak0423@gmail.com)
+[![Email](https://img.shields.io/badge/-yyak0423@gmail.com-red?style=flat&logo=gmail)](mailto:yyak0423@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-green?style=flat)](https://your-portfolio-site.com) -->
 
 ## 🔭 Currently Working On
@@ -93,10 +93,17 @@ Web scraping framework featuring:
 - **Test-Driven Development** (University of Helsinki)
 - **Full Stack Open** (University of Helsinki)
 
+## 🎬 Conway's Game of Life - JavaScript TDD Implementation
+
+[![TDD Walkthrough of Game of Life in JavaScript](https://img.youtube.com/vi/4vN68zTKd5M/maxresdefault.jpg)](https://youtu.be/4vN68zTKd5M?si=QYvPKB2jCJy_yaoq)
+
+**Implementation Details:**
+- JavaScript
+- Test-driven development with Jest
 
 ## 📫 How to Reach Me
 <!-- - 💼 [LinkedIn Profile](https://linkedin.com/in/your-profile) -->
-- 📧 yvak0423@gmail.com
+- 📧 yyak0423@gmail.com
 - 🐱 [GitHub Repos](https://github.com/Yakovyakov?tab=repositories)
 
 ## ⚡ Fun Fact
