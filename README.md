@@ -93,6 +93,10 @@ Web scraping framework featuring:
 - **Test-Driven Development** (University of Helsinki)
 - **Full Stack Open** (University of Helsinki)
 
+## 📜 Certifications
+- **TCP/IP & Linux** (NIIT, 2008)  
+- **Linux Administration** (NIIT, 2008)
+
 ## 🎬 Conway's Game of Life - JavaScript TDD Implementation
 
 [![TDD Walkthrough of Game of Life in JavaScript](https://img.youtube.com/vi/4vN68zTKd5M/maxresdefault.jpg)](https://youtu.be/4vN68zTKd5M?si=QYvPKB2jCJy_yaoq)
