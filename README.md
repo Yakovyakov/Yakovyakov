@@ -113,3 +113,4 @@ Web scraping framework featuring:
 ## ⚡ Fun Fact
 I once fixed a production bug by writing the test first!
 
+![Views](https://visitor-badge.laobi.icu/badge?page_id=Yakovyakov.YakovYakov)
