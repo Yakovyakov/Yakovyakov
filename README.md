@@ -110,7 +110,13 @@ Web scraping framework featuring:
 - 📧 yyak0423@gmail.com
 - 🐱 [GitHub Repos](https://github.com/Yakovyakov?tab=repositories)
 
+### 📄 My Resume
+
+- 🇪🇸 [Ver CV en español (Markdown)](https://github.com/Yakovyakov/yasik-cv/blob/main/cv-es.md)
+- 🇬🇧 [View CV in English (Markdown)](https://github.com/Yakovyakov/yasik-cv/blob/main/cv-en.md)
+- 📥 [Download ATS-friendly version (.txt)](https://github.com/Yakovyakov/yasik-cv/raw/main/cv-en.txt)
+
 ## ⚡ Fun Fact
-I once fixed a production bug by writing the test first!
+I once fixed a production bug **by writing the test first** — and it caught two more before deployment. 🧪😄
 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=Yakovyakov.YakovYakov)
