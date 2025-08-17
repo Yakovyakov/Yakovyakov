@@ -114,7 +114,7 @@ Web scraping framework featuring:
 
 - 🇪🇸 [Ver CV en español (Markdown)](./CV/cv-es.md)
 - 🇬🇧 [View CV in English (Markdown)](./CV/cv-en.md)
-- 📥 [Download ATS-friendly version (.txt)](https://github.com/Yakovyakov/yasik-cv/raw/main/cv-en.txt)
+- 📥 [Download ATS-friendly version (.txt)](./CV/cv-en.txt)
 
 ## ⚡ Fun Fact
 I once fixed a production bug **by writing the test first** — and it caught two more before deployment. 🧪😄
