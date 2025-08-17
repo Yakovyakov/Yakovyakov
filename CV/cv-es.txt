@@ -1,0 +1,60 @@
+Yasik Reyes Cristóbal
+yyak0423@gmail.com | +53-56386824 | La Habana, Cuba
+github.com/Yakovyakov
+
+PERFIL PROFESIONAL
+Ingeniero de Sistemas con mas de 20 años de experiencia liderando proyectos de infraestructura critica. Especialista en optimizacion de sistemas Linux, redes de alto rendimiento y desarrollo full stack. Arquitecto de soluciones escalables con enfoque en seguridad, rendimiento y alta disponibilidad. Experiencia comprobada en desarrollo desde cero de sistemas operativos, servidores de correo seguro y arquitecturas de red de alto trafico.
+
+EXPERIENCIA PROFESIONAL
+
+Ingeniero Lider de Sistemas Linux
+Centro Principal de Calculo – La Habana, Cuba
+2005 – Actualidad
+
+Sistema Operativo Personalizado (Linux Gentoo) | 2009 – Actualidad
+- Diseñe y desarrolle un sistema operativo desde cero para una red masiva de +500 nodos, basado en Gentoo Linux.
+- Optimize el kernel eliminando modulos innecesarios y ajustando el stack de red (TCP BBR, buffers dinamicos).
+- Automatice el despliegue: reduccion de 2h a 20 min por servidor.
+- Realice migraciones continuas (kernels 3.x → 4.x → 5.x) y parcheo proactivo de CVEs.
+
+Sistema de Correo Electronico Seguro | 2010 – Actualidad
+- Desarrolle un servidor SMTP/POP3 desde cero en C y un cliente en Delphi/C++.
+- Implemente una libreria personalizada para comunicacion eficiente entre cliente y servidor.
+- Gestiono mas de 1.000 usuarios activos y reduje incidentes de seguridad en un 60%.
+- Mantenimiento activo: correccion de vulnerabilidades y actualizaciones de protocolos.
+
+Sistema de Alta Disponibilidad (Activo-Pasivo) | 2011 – Actualidad
+- Implemente failover automatico con tiempo de recuperacion menor a 5 segundos usando IP virtual (VIP) y gratuitous ARP.
+- Desarrolle scripts de monitoreo en Bash y Python para deteccion de caidas (ping, netstat).
+
+Procesamiento Paralelo de Paquetes para VPN con Cifrado Pesado | 2015 – Actualidad
+- Escalone el rendimiento de servidores VPN de 200 MB/s a 850 MB/s mediante modificacion de RPS y balanceo de carga entre CPUs.
+- Solucion 100% en software, sin aceleracion por hardware. Validado con iperf3.
+
+PROYECTOS PERSONALES
+
+Herramienta de Monitoreo Web Automatizado | 2023 – Actualidad
+- Sistema automatizado para detectar cambios en paginas web y generar alertas en tiempo real.
+- Uso de colas con Redis para gestion de tareas y evitar sobrecarga.
+- Ejecucion programada con cron y notificaciones (email/Telegram).
+- Enfoque en bajo impacto: delays, cumplimiento de robots.txt.
+
+HABILIDADES TECNICAS
+- Lenguajes: C, C++, Python, JavaScript, Bash, Delphi, Haskell, TypeScript
+- Full Stack & Mobile: React, Node.js, React Native, Expo, REST/GraphQL, APIs Nativas
+- Bases de Datos: PostgreSQL, MySQL, MongoDB, Redis
+- Sistemas & DevOps: Linux, Docker, CI/CD (GitHub Actions), TCP/IP, Hardening de Sistemas
+- Testing: TDD, Jest, Mocha/Chai, Playwright
+
+HABILIDADES BLANDAS
+Liderazgo tecnico, Resolucion de problemas, Comunicacion, Trabajo en equipo, Adaptabilidad
+
+EDUCACION
+Ingeniero en Ciencias Informaticas – Universidad Tecnologica “Jose Marti” – La Habana, Cuba – 2005
+
+CURSOS DE POSTGRADO
+- Full Stack Open – Universidad de Helsinki, Finlandia – 2024–2025
+- Test-Driven Development: Full Stack – Universidad de Helsinki – 2025
+- Elements of AI (Advanced) – Universidad de Helsinki – 2025
+- Criptografia de Curva Eliptica – Institute of Science and Technology Cryptography, Vietnam – 2015
+- Administracion de Linux y TCP/IP – Certificacion NIIT, FORDES – 2008
