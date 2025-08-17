@@ -112,8 +112,8 @@ Web scraping framework featuring:
 
 ### 📄 My Resume
 
-- 🇪🇸 [Ver CV en español (Markdown)](./cv/cv-es.md)
-- 🇬🇧 [View CV in English (Markdown)](./cv/cv-en.md)
+- 🇪🇸 [Ver CV en español (Markdown)](./CV/cv-es.md)
+- 🇬🇧 [View CV in English (Markdown)](./CV/cv-en.md)
 - 📥 [Download ATS-friendly version (.txt)](https://github.com/Yakovyakov/yasik-cv/raw/main/cv-en.txt)
 
 ## ⚡ Fun Fact
