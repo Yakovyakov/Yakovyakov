@@ -104,6 +104,7 @@ Web scraping framework featuring:
 **Implementation Details:**
 - JavaScript
 - Test-driven development with Jest
+- [View repository](https://github.com/Yakovyakov/tdd-mooc-conways-game-of-life)
 
 ## 📫 How to Reach Me
 <!-- - 💼 [LinkedIn Profile](https://linkedin.com/in/your-profile) -->
