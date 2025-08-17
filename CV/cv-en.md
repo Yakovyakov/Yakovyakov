@@ -79,8 +79,9 @@ Technical Leadership | Problem Solving | Communication | Teamwork | Adaptability
 
 **Bachelor in Computer Science**  
 Universidad Tecnológica “José Martí” – Havana, Cuba  
-*2005* 
-*5-year engineering program focused on systems, networks, and software development*
+*2005*
+
+**5-year engineering program focused on systems, networks, and software development**
 
 ---
 
