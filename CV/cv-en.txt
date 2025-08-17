@@ -1,0 +1,60 @@
+Yasik Reyes Cristobal
+yyak0423@gmail.com | +53-56386824 | Havana, Cuba
+github.com/Yakovyakov
+
+PROFESSIONAL PROFILE
+Systems Engineer with over 20 years of experience leading critical infrastructure projects. Specialist in Linux system optimization, high-performance networks, and full stack development. Architect of scalable solutions with focus on security, performance, and high availability. Proven track record in building operating systems from scratch, secure email servers, and high-traffic network architectures.
+
+PROFESSIONAL EXPERIENCE
+
+Lead Linux Systems Engineer
+Centro Principal de Calculo – Havana, Cuba
+2005 – Present
+
+Custom Operating System (Linux Gentoo) | 2009 – Present
+- Designed and developed a custom OS from scratch for a large-scale network of +500 nodes, based on Gentoo Linux.
+- Optimized the kernel by removing unnecessary modules and tuning the network stack (TCP BBR, dynamic buffers).
+- Automated deployment: reduced setup time from 2h to 20 min per server.
+- Performed continuous kernel upgrades (3.x → 4.x → 5.x) and proactive CVE patching.
+
+Secure Email System | 2010 – Present
+- Developed a custom SMTP/POP3 server from scratch in C and a client in Delphi/C++.
+- Implemented a custom C/C++ library for efficient client-server communication.
+- Managed 1,000+ active users and reduced security incidents by 60%.
+- Ongoing maintenance: vulnerability fixes and protocol updates.
+
+High Availability System (Active-Passive) | 2011 – Present
+- Implemented automatic failover with recovery time under 5 seconds using Virtual IP (VIP) and gratuitous ARP.
+- Developed monitoring scripts in Bash and Python for real-time failure detection (ping, netstat).
+
+Parallel Packet Processing for High-Encryption VPN | 2015 – Present
+- Scaled VPN server performance from 200 MB/s to 850 MB/s by modifying RPS and implementing CPU load balancing.
+- Software-only solution without hardware acceleration. Validated with iperf3.
+
+PERSONAL PROJECTS
+
+Web Monitoring Automation Tool | 2023 – Present
+- Automated system to detect changes on websites and trigger real-time alerts.
+- Used Redis queues to manage tasks and prevent server overload.
+- Scheduled execution via cron with email/Telegram notifications.
+- Low-impact design: delays, robots.txt compliance.
+
+TECHNICAL SKILLS
+- Languages: C, C++, Python, JavaScript, Bash, Delphi, Haskell, TypeScript
+- Full Stack & Mobile: React, Node.js, React Native, Expo, REST/GraphQL, Native APIs
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Systems & DevOps: Linux, Docker, CI/CD (GitHub Actions), TCP/IP, Hardening
+- Testing: TDD, Jest, Mocha/Chai, Playwright
+
+SOFT SKILLS
+Technical Leadership, Problem Solving, Communication, Teamwork, Adaptability
+
+EDUCATION
+Bachelor in Computer Science – Universidad Tecnologica “Jose Marti” – Havana, Cuba – 2005
+
+POSTGRADUATE COURSES
+- Full Stack Open – University of Helsinki, Finland – 2024–2025
+- Test-Driven Development: Full Stack – University of Helsinki – 2025
+- Elements of AI (Advanced) – University of Helsinki – 2025
+- Elliptic Curve Cryptography – Institute of Science and Technology Cryptography, Vietnam – 2015
+- Linux Administration and TCP/IP – NIIT Certification, FORDES – 2008
