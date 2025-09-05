@@ -1,6 +1,6 @@
 Yasik Reyes Cristobal
 yasik.reyes.dev@gmail.com | +53-56386824 | Havana, Cuba
-github.com/Yakovyakov
+github.com/Yakovyakov | https://yasik-dev.vercel.app
 
 PROFESSIONAL PROFILE
 Systems Engineer with over 20 years of experience leading critical infrastructure projects. Specialist in Linux system optimization, high-performance networks, and full stack development. Architect of scalable solutions with focus on security, performance, and high availability. Proven track record in building operating systems from scratch, secure email servers, and high-traffic network architectures.
