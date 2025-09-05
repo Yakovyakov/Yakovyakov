@@ -1,6 +1,6 @@
 Yasik Reyes Cristóbal
 yasik.reyes.dev@gmail.com | +53-56386824 | La Habana, Cuba
-github.com/Yakovyakov
+github.com/Yakovyakov | https://yasik-dev.vercel.app
 
 PERFIL PROFESIONAL
 Ingeniero de Sistemas con mas de 20 años de experiencia liderando proyectos de infraestructura critica. Especialista en optimizacion de sistemas Linux, redes de alto rendimiento y desarrollo full stack. Arquitecto de soluciones escalables con enfoque en seguridad, rendimiento y alta disponibilidad. Experiencia comprobada en desarrollo desde cero de sistemas operativos, servidores de correo seguro y arquitecturas de red de alto trafico.
