@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **Full Stack Developer | Python Specialist | TDD Practitioner | AI Enthusiast**
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile) -->
-[![Email](https://img.shields.io/badge/-yyak0423@gmail.com-red?style=flat&logo=gmail)](mailto:yyak0423@gmail.com)
+[![Email](https://img.shields.io/badge/-yasik.reyes.dev@gmail.com-red?style=flat&logo=gmail)](mailto:yasik.reyes.dev@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-green?style=flat)](https://your-portfolio-site.com) -->
 
 ## 🔭 Currently Working On
@@ -108,7 +108,7 @@ Web scraping framework featuring:
 
 ## 📫 How to Reach Me
 <!-- - 💼 [LinkedIn Profile](https://linkedin.com/in/your-profile) -->
-- 📧 yyak0423@gmail.com
+- 📧 yasik.reyes.dev@gmail.com
 - 🐱 [GitHub Repos](https://github.com/Yakovyakov?tab=repositories)
 
 ### 📄 My Resume
