@@ -1,6 +1,6 @@
 # Yasik Reyes Cristóbal
 
-📧 yyak0423@gmail.com | 📞 +53-56386824 | 📍 Havana, Cuba  
+📧 yasik.reyes.dev@gmail.com | 📞 +53-56386824 | 📍 Havana, Cuba  
 [github.com/Yakovyakov](https://github.com/Yakovyakov)
 
 ---
