@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <!-- [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile) -->
 [![Email](https://img.shields.io/badge/-yasik.reyes.dev@gmail.com-red?style=flat&logo=gmail)](mailto:yasik.reyes.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-green?style=flat)](https://yasik-dev.vercel.app) 
+[LinkedIn](https://www.linkedin.com/in/yasik-reyes-cristobal-197514384/)
 
 ## 🔭 Currently Working On
 - **Test-Driven Full Stack Apps** (React + Node.js + PostgreSQL)
