@@ -89,6 +89,15 @@ Web scraping framework featuring:
 - Performance benchmarks
 - Failure recovery tests
 -->
+#### Legislación Cubana (Android)
+Official mobile application for quick, precise, and organized access to legal norms published in Cuba's Official Gazette. Its dynamic design allows searching by multiple fields, facilitating the work of jurists, students, and citizens.
+- **🔗 Repository:** [Yakovyakov/legislacioncubana](https://github.com/Yakovyakov/legislacioncubana)
+- **⬇️ Download APK:** [Latest Release](https://github.com/Yakovyakov/legislacioncubana/releases/latest)
+
+<p align="left">
+  <img src="https://github.com/yakovyakov/legislacioncubana/releases/download/v1.2.0/screenshot-about-dark.png" alt="Cuban Legislation App Screenshot" width="300">
+</p>
+
 ## 📚 Latest Learning
 - **Elements of AI: Building AI, Advanced** (University of Helsinki)
 - **Test-Driven Development** (University of Helsinki)
